@@ -15,4 +15,5 @@ In project management, a Market Requirement Document (MRD) is a document that ex
 
 #Note:
 
-Please follow through the tutorials step by step and complete the quizzes on Udacity first before working on this exercise.
+1. Please follow through the tutorials step by step and complete the quizzes on Udacity first before working on this exercise.
+2. Don't worry if you are not familiar with writing the MRD. There are Instructions given for each section described in this MRD template.

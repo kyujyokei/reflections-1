@@ -24,9 +24,11 @@ A Recipe app that allows users to search and to add new recipes.
 - Customer Research Data Appendices
 
 #Vision
-1-2 sentence description of target customers, their unmet needs, and your proposed solution.
+For taiwanese people who must cook by themselves for keeping healthy and avoiding eating contaminated food, our product is a Lifesaver that provides many kinds of recipes with food without processing and using as less as possible seasoning. Unlike "Recipes",which is wellknown as a recipe app, we offer recipe that is suitable for taiwanese and include less unnatural materials.
 
+/*
 Consider using Geoffrey Moore’s positioning statement from Crossing the Chasm, i.e., “For [target customer segments] who must [problem to be solved], our product is a new [category name] that provides [solution to the problem]. Unlike [current solutions], we offer [key differentiating factor].”
+*/
 
 #Motivation
 ##Personas

@@ -1,5 +1,7 @@
 This MRD Template is provided by Harvard Business School (HBS-PM101)
 
+
+
 Alan Peng, author1@, author2@ ...
 Date last updated: 2016-02-27
 
@@ -31,6 +33,10 @@ Consider using Geoffrey Moore’s positioning statement from Crossing the Chasm,
 */
 
 #Motivation
+Some new menu to provide for housewives.
+Someone want to cook but not sure to prepare ingredient and cooking methods.
+
+
 ##Personas
 Present your primary and any secondary personas.
 In what ways are early adopters likely to differ from mainstream users?

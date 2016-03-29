@@ -33,6 +33,10 @@ Consider using Geoffrey Moore’s positioning statement from Crossing the Chasm,
 */
 
 #Motivation
+Some new menu to provide for housewives.
+Someone want to cook but not sure to prepare ingredient and cooking methods.
+
+
 ##Personas
 Present your primary and any secondary personas.
 In what ways are early adopters likely to differ from mainstream users?

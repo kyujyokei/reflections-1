@@ -85,6 +85,7 @@ For new products that are being developed for existing organizations, is the pro
 
 #Team Members
 List everyone who will be working on the project, along with their expected role and contact info.
+Elsa Lau <chinbo@gmail.com>
 
 #Go/No Go Recommendation
 

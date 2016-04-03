@@ -9,7 +9,7 @@ Date last updated: 2016-02-27
 A Recipe app that allows users to search and to add new recipes.
 
 #OUTLINE:
-- Eat Fat Meat
+- Eat MORE Fat Meat
 - Vision
 - Motivation
 - Personas
@@ -27,7 +27,7 @@ A Recipe app that allows users to search and to add new recipes.
 - Customer Research Data Appendices
 
 #Eat Fat Meat
-So we look greater in mass, that's a must do.
+So we look ever GREATER in mass, that's a must do.
 
 #Vision
 For taiwanese people who must cook by themselves for keeping healthy and avoiding eating contaminated food, our product is a Lifesaver that provides many kinds of recipes with food without processing and using as less as possible seasoning. Unlike "Recipes",which is wellknown as a recipe app, we offer recipe that is suitable for taiwanese and include less unnatural materials.

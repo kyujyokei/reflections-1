@@ -25,9 +25,6 @@ A Recipe app that allows users to search and to add new recipes.
 - Go/No Go Recommendation
 - Customer Research Data Appendices
 
-#Eat Fat Meat
-So we look ever GREATER in mass, that's a must do.
-
 #Vision
 For taiwanese people who must cook by themselves for keeping healthy and avoiding eating contaminated food, our product is a Lifesaver that provides many kinds of recipes with food without processing and using as less as possible seasoning. Unlike "Recipes",which is wellknown as a recipe app, we offer recipe that is suitable for taiwanese and include less unnatural materials.
 
